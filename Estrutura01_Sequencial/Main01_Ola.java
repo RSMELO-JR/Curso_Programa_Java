@@ -6,6 +6,7 @@ public class Main01_Ola {
 		
 		System.out.println("Olá Mundo");
 		System.out.println("Hello, World!");
+		System.out.println("Ola, testando novamente!");
 	}
 
 }
