@@ -1,0 +1,41 @@
+//Operadores Comparativos
+	> maior
+	< menor
+	>= maior ou igual
+	<= menor ou igual
+	== igual
+	!= diferente
+
+
+//Operadores Lógicos
+	&& 	e
+	|| 	ou
+	!	não
+	
+Tabela Verdade do Operador "E"
+	A	B		A&&B
+	F	F		F
+	F	V		F
+	V	F		F
+	V	V		V
+	
+Tabela Verdade do Operador "OU"
+	A	B		A||B
+	F	F		F
+	F	V		V
+	V	F		V
+	V	V		V
+
+Tabela Verdade do Operador "NÃO"
+	A		!A
+	F		V
+	V		F
+
+
+ OPERADORRES DE ATRIBUIÇÃO CUMULATIVA
+ a += b;		a = a + b;
+ a -= b;		a = a - b;
+ a *= b;		a = a * b;
+ a /= b;		a = a / b;
+ a %= b;		a = A % b; --- % é igual a MOD
+ 
